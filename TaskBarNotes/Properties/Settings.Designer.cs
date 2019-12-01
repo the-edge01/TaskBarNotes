@@ -25,10 +25,12 @@ namespace TaskBarNotes.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("")]
-        public string TaskNotes {
+        [global::System.Configuration.DefaultSettingValueAttribute("<?xml version=\"1.0\" encoding=\"utf-16\"?>\r\n<ArrayOfString xmlns:xsi=\"http://www.w3." +
+            "org/2001/XMLSchema-instance\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema\">\r\n  <s" +
+            "tring>test1</string>\r\n  <string>test2</string>\r\n</ArrayOfString>")]
+        public global::System.Collections.Specialized.StringCollection TaskNotes {
             get {
-                return ((string)(this["TaskNotes"]));
+                return ((global::System.Collections.Specialized.StringCollection)(this["TaskNotes"]));
             }
             set {
                 this["TaskNotes"] = value;
@@ -43,6 +45,20 @@ namespace TaskBarNotes.Properties {
             }
             set {
                 this["WindowSize"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("<?xml version=\"1.0\" encoding=\"utf-16\"?>\r\n<ArrayOfString xmlns:xsi=\"http://www.w3." +
+            "org/2001/XMLSchema-instance\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema\">\r\n  <s" +
+            "tring>test2 </string>\r\n  <string>test3</string>\r\n</ArrayOfString>")]
+        public global::System.Collections.Specialized.StringCollection TaskNotesName {
+            get {
+                return ((global::System.Collections.Specialized.StringCollection)(this["TaskNotesName"]));
+            }
+            set {
+                this["TaskNotesName"] = value;
             }
         }
     }
