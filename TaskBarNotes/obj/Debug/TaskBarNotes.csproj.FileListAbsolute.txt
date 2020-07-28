@@ -7,3 +7,12 @@ C:\Users\Eric\Documents\Visual Studio 2013\Projects\TaskBarNotes\TaskBarNotes\ob
 C:\Users\Eric\Documents\Visual Studio 2013\Projects\TaskBarNotes\TaskBarNotes\obj\Debug\TaskBarNotes.csproj.GenerateResource.Cache
 C:\Users\Eric\Documents\Visual Studio 2013\Projects\TaskBarNotes\TaskBarNotes\obj\Debug\TaskBarNotes.exe
 C:\Users\Eric\Documents\Visual Studio 2013\Projects\TaskBarNotes\TaskBarNotes\obj\Debug\TaskBarNotes.pdb
+C:\Users\Eric\Source\Repos\TaskBarNotes\TaskBarNotes\bin\Debug\TaskBarNotes.exe.config
+C:\Users\Eric\Source\Repos\TaskBarNotes\TaskBarNotes\bin\Debug\TaskBarNotes.exe
+C:\Users\Eric\Source\Repos\TaskBarNotes\TaskBarNotes\bin\Debug\TaskBarNotes.pdb
+C:\Users\Eric\Source\Repos\TaskBarNotes\TaskBarNotes\obj\Debug\TaskBarNotes.csprojAssemblyReference.cache
+C:\Users\Eric\Source\Repos\TaskBarNotes\TaskBarNotes\obj\Debug\TaskBarNotes.Form1.resources
+C:\Users\Eric\Source\Repos\TaskBarNotes\TaskBarNotes\obj\Debug\TaskBarNotes.Properties.Resources.resources
+C:\Users\Eric\Source\Repos\TaskBarNotes\TaskBarNotes\obj\Debug\TaskBarNotes.csproj.GenerateResource.cache
+C:\Users\Eric\Source\Repos\TaskBarNotes\TaskBarNotes\obj\Debug\TaskBarNotes.exe
+C:\Users\Eric\Source\Repos\TaskBarNotes\TaskBarNotes\obj\Debug\TaskBarNotes.pdb
